@@ -217,7 +217,7 @@ w.onload = () => {
             4- rojo y blanco.
         `);
 
-        const regExpResp5 = /^(3|opci(ó|o)n(\s)?3|rojo,(\s)?amarillo y verde|(\.)?)$/;
+        const regExpResp5 = /^(3|opci(ó|o)n(\s)?3|rojo,(\s)?amarillo y verde(\.)?)$/;
 
         if (respuesta5 === null) {
 
